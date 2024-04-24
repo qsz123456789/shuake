@@ -4,7 +4,7 @@ import page
 from base.base import Base
 from selenium.webdriver.common.by import By
 '''
-以下为app登录模块配置信息
+以下为web登录模块配置信息
 '''
 #用户名
 phone=By.ID,"phone"
@@ -14,6 +14,7 @@ pwd=By.ID,"pwd"
 login_btn=By.XPATH,"//*[contains(@type,'button')]"
 #昵称
 nickname=By.XPATH,"//*[@class='user-name']"
+
 #操作步骤封装+组合业务方法
 class PageLogin(Base):
     #输入用户名
@@ -30,6 +31,7 @@ class PageLogin(Base):
     def page_get_nickname(self):
         sleep(2)
         return self.base_get_text(nickname)
+
     #组合业务（方便调用使用
     def page_login(self,phone,pwd):
         self.__page_phone(phone)
