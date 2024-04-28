@@ -1,35 +1,30 @@
 import logging
 import os, json
+from time import sleep
 
 from selenium import webdriver
 from config import DIR_PATH, HOST
 import logging.handlers
 
-class Util:
-    def __init__(self, driver):
-        self.driver = driver
 
-    # 封装多窗口工具
-    def util_switch_window(self, title):
-        handles = self.driver.window_handles
-        for handle in handles:
-            self.driver.switch_to.window(handle)
-            if self.driver.title == title:
-                return "已找到{}窗口，并且已切换成功".format(title)
+class DriverUtil:
+    __driver = None
 
-
-class GetDriver:
-    driver = None
-    __web_driver = None
-
-    # 获取webdriver
+    # 获取驱动对象
     @classmethod
     def get_web_driver(cls):
-        if cls.__web_driver is None:
-            cls.driver = webdriver.Chrome(r"E:\chrome-win64\chromedriver.exe")
-            cls.driver.get(HOST)
-            cls.driver.maximize_window()
-        return cls.driver
+        if cls.__driver is None:
+            cls.__driver = webdriver.Chrome(r"E:\chrome-win64\chromedriver.exe")
+            cls.__driver.get(HOST)
+            cls.__driver.maximize_window()
+        return cls.__driver
+    #退出驱动对象
+    @classmethod
+    def quit_web_driver(cls):
+        if cls.__driver:
+            sleep(3)
+            cls.__driver.quit()
+            cls.__driver=None
 
 
 # 读取数据工具

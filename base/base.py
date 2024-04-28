@@ -1,5 +1,5 @@
 import os
-from datetime import time
+from datetime import  datetime
 from time import sleep
 
 from selenium.webdriver import ActionChains
@@ -15,7 +15,7 @@ class Base:
     #查找元素方法
     def base_find(self,loc,timeout=10,poll_frequency=0.5):
         log.info("正在查找元素：{}".format(loc))
-        return WebDriverWait(self.driver,timeout,poll_frequency).until(lambda x:x.find_element(loc[0],loc[1]))
+        return WebDriverWait(self.driver,timeout,poll_frequency).until(lambda x:x.find_element(*loc))
 
     #点击方法
     def base_click(self,loc):
@@ -37,7 +37,9 @@ class Base:
     #截图方法
     def base_get_img(self):
         log.info("正在调用截图方法")
-        img_path=DIR_PATH+os.sep+"img"+"os.sep"+"{}.png".format(time.strftime("%Y%m%d%H%M%S"))
+        dt=datetime.now()
+        time_obj=dt.time()
+        img_path=DIR_PATH+os.sep+"img"+"os.sep"+"{}.png".format(time_obj.strftime("%H:%M:%S"))
         self.driver.get_screenshot_as_file("{}.png".format(img_path))
     #切换iframe方法
     def base_switch_frame(self,loc):
@@ -51,5 +53,17 @@ class Base:
     def base_switch(self,n):
         handles=self.driver.window_handles
         self.driver.switch_to.window(handles[n])
+    #复选框
+    def base_check(self,webelement,status):
+        if webelement.is_selected():
+            if not status:
+                webelement.click()
+            else:
+                if status:
+                    webelement.click()
+    #滚动条滑到底
+    def base_scroll(self):
+        js="window.scrollTo(0,10000)"
+        self.driver.execute_script(js)
 
 
