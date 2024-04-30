@@ -40,12 +40,11 @@ class TestLogin(unittest.TestCase):
             for i in range(100):
                 self.driver.switch_to.frame(0)
                 not_sees = self.driver.find_elements_by_xpath("//*[@class='catalog_points_yi']")
+                #not_sees=self.driver.find_elements_by_xpath("//*[text()='2']")
                 #若本页有橙色点
                 if not_sees != [] :
                     not_sees[0].click()
                     self.learning.page_learning()
-                    self.driver.refresh()
-                    continue
                 #若本页没有橙色点
                 if not_sees == []:
                     js = "window.scrollBy(0,100)"

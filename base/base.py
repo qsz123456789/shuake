@@ -2,6 +2,7 @@ import os
 from datetime import  datetime
 from time import sleep
 
+from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver import ActionChains
 from selenium.webdriver.support.wait import WebDriverWait
 
@@ -13,7 +14,7 @@ class Base:
         log.info("正在初始化，driver对象：{}".format(driver))
         self.driver=driver
     #查找元素方法
-    def base_find(self,loc,timeout=10,poll_frequency=0.5):
+    def base_find(self,loc,timeout=30,poll_frequency=0.5):
         log.info("正在查找元素：{}".format(loc))
         return WebDriverWait(self.driver,timeout,poll_frequency).until(lambda x:x.find_element(*loc))
 
@@ -53,14 +54,13 @@ class Base:
     def base_switch(self,n):
         handles=self.driver.window_handles
         self.driver.switch_to.window(handles[n])
-    #复选框
-    def base_check(self,webelement,status):
-        if webelement.is_selected():
-            if not status:
-                webelement.click()
-            else:
-                if status:
-                    webelement.click()
+    #判断元素是否可见
+    def base_is_displayed(self,loc):
+        try:
+            self.base_find(loc).is_displayed()
+        except NoSuchElementException:
+            return False
+        return True
     #滚动条滑到底
     def base_scroll(self):
         js="window.scrollTo(0,10000)"
