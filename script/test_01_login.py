@@ -40,7 +40,7 @@ class TestLogin(unittest.TestCase):
             for i in range(100):
                 self.driver.switch_to.frame(0)
                 not_sees = self.driver.find_elements_by_xpath("//*[@class='catalog_points_yi']")
-                #not_sees=self.driver.find_elements_by_xpath("//*[text()='2']")
+                #q  wnot_sees=self.driver.find_elements_by_xpath("//*[text()='2']")
                 #若本页有橙色点
                 if not_sees != [] :
                     not_sees[0].click()
@@ -56,7 +56,7 @@ class TestLogin(unittest.TestCase):
                     if current_position>=total_height:
                         break
         except Exception as e:
-            print (e)
+            print ("错误原因:",e)
             log.error(e)
             #截图
             self.base.base_get_img()

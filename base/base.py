@@ -1,9 +1,7 @@
 import os
 from datetime import  datetime
-from time import sleep
 
 from selenium.common.exceptions import NoSuchElementException
-from selenium.webdriver import ActionChains
 from selenium.webdriver.support.wait import WebDriverWait
 
 from base import log
