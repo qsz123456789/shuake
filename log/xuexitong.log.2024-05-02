@@ -1,0 +1,612 @@
+2024-05-02 00:00:04,179 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="0c82dad2720a17b68e6001cd77dfe369")>
+2024-05-02 00:00:04,181 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="0c82dad2720a17b68e6001cd77dfe369")>
+2024-05-02 00:00:04,181 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="0c82dad2720a17b68e6001cd77dfe369")>
+2024-05-02 00:00:04,181 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="0c82dad2720a17b68e6001cd77dfe369")>
+2024-05-02 00:00:04,181 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="0c82dad2720a17b68e6001cd77dfe369")>
+2024-05-02 00:00:04,181 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'phone'),输入内容：17713483937
+2024-05-02 00:00:04,181 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'phone')
+2024-05-02 00:00:04,360 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'pwd'),输入内容：*z$913129
+2024-05-02 00:00:04,360 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'pwd')
+2024-05-02 00:00:04,438 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 00:00:04,439 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 00:00:06,488 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 00:00:06,488 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 00:00:10,428 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 00:00:10,428 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 00:00:10,439 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[@title='课程']")
+2024-05-02 00:00:10,439 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@title='课程']")
+2024-05-02 00:00:11,529 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 00:00:11,529 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 00:00:13,184 INFO [base.py (base_click:23)] - 正在点击元素：('css selector', '.zj')
+2024-05-02 00:00:13,184 INFO [base.py (base_find:18)] - 正在查找元素：('css selector', '.zj')
+2024-05-02 00:00:18,361 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('id', 'iframe')
+2024-05-02 00:00:18,362 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'iframe')
+2024-05-02 00:00:19,519 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('class name', 'ans-attach-online')
+2024-05-02 00:00:19,519 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'ans-attach-online')
+2024-05-02 00:00:19,546 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 00:00:19,546 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 00:00:20,674 INFO [base.py (base_click:23)] - 正在点击元素：('class name', 'writeNote_vid_blue')
+2024-05-02 00:00:20,674 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'writeNote_vid_blue')
+2024-05-02 00:00:20,904 ERROR [test_01_login.py (test01_login:60)] - 'str' object has no attribute 'display'
+2024-05-02 00:00:20,904 INFO [base.py (base_get_img:40)] - 正在调用截图方法
+2024-05-02 00:05:24,699 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="d85338a169cb0f1240b0ba54ff016e53")>
+2024-05-02 00:05:24,700 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="d85338a169cb0f1240b0ba54ff016e53")>
+2024-05-02 00:05:24,700 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="d85338a169cb0f1240b0ba54ff016e53")>
+2024-05-02 00:05:24,700 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="d85338a169cb0f1240b0ba54ff016e53")>
+2024-05-02 00:05:24,700 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="d85338a169cb0f1240b0ba54ff016e53")>
+2024-05-02 00:05:24,700 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'phone'),输入内容：17713483937
+2024-05-02 00:05:24,700 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'phone')
+2024-05-02 00:05:24,861 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'pwd'),输入内容：*z$913129
+2024-05-02 00:05:24,862 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'pwd')
+2024-05-02 00:05:24,933 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 00:05:24,933 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 00:05:26,975 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 00:05:26,975 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 00:05:31,050 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 00:05:31,050 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 00:05:31,061 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[@title='课程']")
+2024-05-02 00:05:31,061 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@title='课程']")
+2024-05-02 00:05:32,140 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 00:05:32,140 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 00:05:33,807 INFO [base.py (base_click:23)] - 正在点击元素：('css selector', '.zj')
+2024-05-02 00:05:33,808 INFO [base.py (base_find:18)] - 正在查找元素：('css selector', '.zj')
+2024-05-02 00:05:39,211 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('id', 'iframe')
+2024-05-02 00:05:39,211 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'iframe')
+2024-05-02 00:05:40,373 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('class name', 'ans-attach-online')
+2024-05-02 00:05:40,373 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'ans-attach-online')
+2024-05-02 00:05:40,399 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 00:05:40,399 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 00:05:41,534 INFO [base.py (base_click:23)] - 正在点击元素：('class name', 'writeNote_vid_blue')
+2024-05-02 00:05:41,534 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'writeNote_vid_blue')
+2024-05-02 00:05:41,691 ERROR [test_01_login.py (test01_login:60)] - 'tuple' object has no attribute 'display'
+2024-05-02 00:05:41,691 INFO [base.py (base_get_img:40)] - 正在调用截图方法
+2024-05-02 10:46:57,031 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="4f45efd9d9d48a254a9a4bac647360de")>
+2024-05-02 10:46:57,034 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="4f45efd9d9d48a254a9a4bac647360de")>
+2024-05-02 10:46:57,034 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="4f45efd9d9d48a254a9a4bac647360de")>
+2024-05-02 10:46:57,034 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="4f45efd9d9d48a254a9a4bac647360de")>
+2024-05-02 10:46:57,034 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="4f45efd9d9d48a254a9a4bac647360de")>
+2024-05-02 10:46:57,034 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'phone'),输入内容：17713483937
+2024-05-02 10:46:57,035 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'phone')
+2024-05-02 10:46:57,251 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'pwd'),输入内容：*z$913129
+2024-05-02 10:46:57,251 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'pwd')
+2024-05-02 10:46:57,350 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 10:46:57,351 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 10:46:59,432 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 10:46:59,432 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 10:47:03,737 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 10:47:03,737 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 10:47:03,754 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[@title='课程']")
+2024-05-02 10:47:03,754 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@title='课程']")
+2024-05-02 10:47:04,912 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 10:47:04,912 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 10:47:06,586 INFO [base.py (base_click:23)] - 正在点击元素：('css selector', '.zj')
+2024-05-02 10:47:06,586 INFO [base.py (base_find:18)] - 正在查找元素：('css selector', '.zj')
+2024-05-02 10:47:12,452 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('id', 'iframe')
+2024-05-02 10:47:12,452 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'iframe')
+2024-05-02 10:47:13,500 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('class name', 'ans-attach-online')
+2024-05-02 10:47:13,500 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'ans-attach-online')
+2024-05-02 10:47:13,536 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 10:47:13,536 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 10:47:14,731 INFO [base.py (base_click:23)] - 正在点击元素：('class name', 'writeNote_vid_blue')
+2024-05-02 10:47:14,731 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'writeNote_vid_blue')
+2024-05-02 10:47:14,945 ERROR [test_01_login.py (test01_login:60)] - 'tuple' object has no attribute 'display'
+2024-05-02 10:47:14,946 INFO [base.py (base_get_img:40)] - 正在调用截图方法
+2024-05-02 10:48:02,349 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="164d24c4017a58e88c912b95aa64acc5")>
+2024-05-02 10:48:02,350 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="164d24c4017a58e88c912b95aa64acc5")>
+2024-05-02 10:48:02,350 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="164d24c4017a58e88c912b95aa64acc5")>
+2024-05-02 10:48:02,350 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="164d24c4017a58e88c912b95aa64acc5")>
+2024-05-02 10:48:02,350 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="164d24c4017a58e88c912b95aa64acc5")>
+2024-05-02 10:48:02,351 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'phone'),输入内容：17713483937
+2024-05-02 10:48:02,351 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'phone')
+2024-05-02 10:48:02,521 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'pwd'),输入内容：*z$913129
+2024-05-02 10:48:02,522 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'pwd')
+2024-05-02 10:48:02,594 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 10:48:02,594 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 10:48:04,640 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 10:48:04,640 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 10:48:08,385 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 10:48:08,385 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 10:48:08,401 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[@title='课程']")
+2024-05-02 10:48:08,401 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@title='课程']")
+2024-05-02 10:48:35,647 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="98118b51a711b0918dcd85b4126c1226")>
+2024-05-02 10:48:35,648 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="98118b51a711b0918dcd85b4126c1226")>
+2024-05-02 10:48:35,648 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="98118b51a711b0918dcd85b4126c1226")>
+2024-05-02 10:48:35,648 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="98118b51a711b0918dcd85b4126c1226")>
+2024-05-02 10:48:35,648 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="98118b51a711b0918dcd85b4126c1226")>
+2024-05-02 10:48:35,648 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'phone'),输入内容：17713483937
+2024-05-02 10:48:35,649 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'phone')
+2024-05-02 10:48:35,829 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'pwd'),输入内容：*z$913129
+2024-05-02 10:48:35,830 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'pwd')
+2024-05-02 10:48:35,895 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 10:48:35,895 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 10:48:37,934 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 10:48:37,934 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 10:48:41,920 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 10:48:41,920 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 10:48:41,931 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[@title='课程']")
+2024-05-02 10:48:41,931 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@title='课程']")
+2024-05-02 10:48:43,028 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 10:48:43,028 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 10:48:44,679 INFO [base.py (base_click:23)] - 正在点击元素：('css selector', '.zj')
+2024-05-02 10:48:44,679 INFO [base.py (base_find:18)] - 正在查找元素：('css selector', '.zj')
+2024-05-02 10:48:50,189 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('id', 'iframe')
+2024-05-02 10:48:50,190 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'iframe')
+2024-05-02 10:48:51,345 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('class name', 'ans-attach-online')
+2024-05-02 10:48:51,345 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'ans-attach-online')
+2024-05-02 10:48:51,378 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 10:48:51,378 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 10:48:52,539 INFO [base.py (base_click:23)] - 正在点击元素：('class name', 'writeNote_vid_blue')
+2024-05-02 10:48:52,540 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'writeNote_vid_blue')
+2024-05-02 10:48:52,701 ERROR [test_01_login.py (test01_login:60)] - 'str' object has no attribute 'display'
+2024-05-02 10:48:52,701 INFO [base.py (base_get_img:40)] - 正在调用截图方法
+2024-05-02 10:49:46,315 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="902cb018a133e9d081443cc3b3650d45")>
+2024-05-02 10:49:46,315 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="902cb018a133e9d081443cc3b3650d45")>
+2024-05-02 10:49:46,316 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="902cb018a133e9d081443cc3b3650d45")>
+2024-05-02 10:49:46,316 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="902cb018a133e9d081443cc3b3650d45")>
+2024-05-02 10:49:46,316 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="902cb018a133e9d081443cc3b3650d45")>
+2024-05-02 10:49:46,316 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'phone'),输入内容：17713483937
+2024-05-02 10:49:46,316 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'phone')
+2024-05-02 10:49:46,487 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'pwd'),输入内容：*z$913129
+2024-05-02 10:49:46,488 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'pwd')
+2024-05-02 10:49:46,567 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 10:49:46,568 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 10:49:48,615 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 10:49:48,615 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 10:49:53,112 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 10:49:53,112 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 10:49:53,128 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[@title='课程']")
+2024-05-02 10:49:53,128 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@title='课程']")
+2024-05-02 10:49:54,283 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 10:49:54,284 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 10:49:55,973 INFO [base.py (base_click:23)] - 正在点击元素：('css selector', '.zj')
+2024-05-02 10:49:55,973 INFO [base.py (base_find:18)] - 正在查找元素：('css selector', '.zj')
+2024-05-02 10:50:01,668 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('id', 'iframe')
+2024-05-02 10:50:01,669 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'iframe')
+2024-05-02 10:50:02,847 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('class name', 'ans-attach-online')
+2024-05-02 10:50:02,847 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'ans-attach-online')
+2024-05-02 10:50:02,871 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 10:50:02,871 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 10:50:04,023 INFO [base.py (base_click:23)] - 正在点击元素：('class name', 'writeNote_vid_blue')
+2024-05-02 10:50:04,023 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'writeNote_vid_blue')
+2024-05-02 10:50:04,311 ERROR [test_01_login.py (test01_login:60)] - 'str' object has no attribute 'display'
+2024-05-02 10:50:04,312 INFO [base.py (base_get_img:40)] - 正在调用截图方法
+2024-05-02 10:50:53,331 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="3b1599f91510a18bd248f217dfa300db")>
+2024-05-02 10:50:53,331 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="3b1599f91510a18bd248f217dfa300db")>
+2024-05-02 10:50:53,331 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="3b1599f91510a18bd248f217dfa300db")>
+2024-05-02 10:50:53,331 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="3b1599f91510a18bd248f217dfa300db")>
+2024-05-02 10:50:53,331 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="3b1599f91510a18bd248f217dfa300db")>
+2024-05-02 10:50:53,331 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'phone'),输入内容：17713483937
+2024-05-02 10:50:53,331 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'phone')
+2024-05-02 10:50:53,588 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'pwd'),输入内容：*z$913129
+2024-05-02 10:50:53,588 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'pwd')
+2024-05-02 10:50:53,673 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 10:50:53,674 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 10:50:55,729 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 10:50:55,729 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 10:50:59,874 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 10:50:59,874 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 10:50:59,886 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[@title='课程']")
+2024-05-02 10:50:59,887 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@title='课程']")
+2024-05-02 10:51:01,088 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 10:51:01,088 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 10:51:02,739 INFO [base.py (base_click:23)] - 正在点击元素：('css selector', '.zj')
+2024-05-02 10:51:02,740 INFO [base.py (base_find:18)] - 正在查找元素：('css selector', '.zj')
+2024-05-02 10:51:14,175 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('id', 'iframe')
+2024-05-02 10:51:14,175 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'iframe')
+2024-05-02 10:51:15,211 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('class name', 'ans-attach-online')
+2024-05-02 10:51:15,211 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'ans-attach-online')
+2024-05-02 10:51:15,241 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 10:51:15,241 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 10:51:16,365 INFO [base.py (base_click:23)] - 正在点击元素：('class name', 'writeNote_vid_blue')
+2024-05-02 10:51:16,365 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'writeNote_vid_blue')
+2024-05-02 10:51:16,546 ERROR [test_01_login.py (test01_login:60)] - 'tuple' object has no attribute 'display'
+2024-05-02 10:51:16,546 INFO [base.py (base_get_img:40)] - 正在调用截图方法
+2024-05-02 10:54:43,482 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="35cb9b64eb23b3b81e112fe243d9eb0e")>
+2024-05-02 10:54:43,483 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="35cb9b64eb23b3b81e112fe243d9eb0e")>
+2024-05-02 10:54:43,483 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="35cb9b64eb23b3b81e112fe243d9eb0e")>
+2024-05-02 10:54:43,483 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="35cb9b64eb23b3b81e112fe243d9eb0e")>
+2024-05-02 10:54:43,483 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="35cb9b64eb23b3b81e112fe243d9eb0e")>
+2024-05-02 10:54:43,483 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'phone'),输入内容：17713483937
+2024-05-02 10:54:43,484 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'phone')
+2024-05-02 10:54:43,662 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'pwd'),输入内容：*z$913129
+2024-05-02 10:54:43,663 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'pwd')
+2024-05-02 10:54:43,728 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 10:54:43,729 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 10:54:45,768 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 10:54:45,768 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 10:54:49,653 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 10:54:49,653 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 10:54:49,665 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[@title='课程']")
+2024-05-02 10:54:49,666 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@title='课程']")
+2024-05-02 10:54:50,772 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 10:54:50,772 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 10:54:52,436 INFO [base.py (base_click:23)] - 正在点击元素：('css selector', '.zj')
+2024-05-02 10:54:52,437 INFO [base.py (base_find:18)] - 正在查找元素：('css selector', '.zj')
+2024-05-02 10:54:57,903 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('id', 'iframe')
+2024-05-02 10:54:57,903 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'iframe')
+2024-05-02 10:54:59,051 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('class name', 'ans-attach-online')
+2024-05-02 10:54:59,051 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'ans-attach-online')
+2024-05-02 10:54:59,083 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 10:54:59,083 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 10:55:00,249 INFO [base.py (base_click:23)] - 正在点击元素：('class name', 'writeNote_vid_blue')
+2024-05-02 10:55:00,249 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'writeNote_vid_blue')
+2024-05-02 10:55:01,663 ERROR [test_01_login.py (test01_login:60)] - Message: element click intercepted: Element <div class="vjs-playback-rate-value">...</div> is not clickable at point (751, 488). Other element would receive the click: <span aria-hidden="true" class="vjs-icon-placeholder"></span>
+  (Session info: chrome=123.0.6312.122)
+Stacktrace:
+	GetHandleVerifier [0x00007FF70E807032+63090]
+	(No symbol) [0x00007FF70E772C82]
+	(No symbol) [0x00007FF70E60EC65]
+	(No symbol) [0x00007FF70E65BB34]
+	(No symbol) [0x00007FF70E659954]
+	(No symbol) [0x00007FF70E657164]
+	(No symbol) [0x00007FF70E655EF9]
+	(No symbol) [0x00007FF70E64A708]
+	(No symbol) [0x00007FF70E676FDA]
+	(No symbol) [0x00007FF70E64A00A]
+	(No symbol) [0x00007FF70E6771F0]
+	(No symbol) [0x00007FF70E693412]
+	(No symbol) [0x00007FF70E676D83]
+	(No symbol) [0x00007FF70E6483A8]
+	(No symbol) [0x00007FF70E649441]
+	GetHandleVerifier [0x00007FF70EC025AD+4238317]
+	GetHandleVerifier [0x00007FF70EC3F70D+4488525]
+	GetHandleVerifier [0x00007FF70EC379EF+4456495]
+	GetHandleVerifier [0x00007FF70E8E0576+953270]
+	(No symbol) [0x00007FF70E77E54F]
+	(No symbol) [0x00007FF70E779224]
+	(No symbol) [0x00007FF70E77935B]
+	(No symbol) [0x00007FF70E769B94]
+	BaseThreadInitThunk [0x00007FFE63BB7614+20]
+	RtlUserThreadStart [0x00007FFE651626B1+33]
+
+2024-05-02 10:55:01,664 INFO [base.py (base_get_img:40)] - 正在调用截图方法
+2024-05-02 10:56:17,799 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="f4acd30aa455e9126ef30d0ea12588fa")>
+2024-05-02 10:56:17,800 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="f4acd30aa455e9126ef30d0ea12588fa")>
+2024-05-02 10:56:17,800 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="f4acd30aa455e9126ef30d0ea12588fa")>
+2024-05-02 10:56:17,801 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="f4acd30aa455e9126ef30d0ea12588fa")>
+2024-05-02 10:56:17,801 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="f4acd30aa455e9126ef30d0ea12588fa")>
+2024-05-02 10:56:17,801 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'phone'),输入内容：17713483937
+2024-05-02 10:56:17,801 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'phone')
+2024-05-02 10:56:17,974 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'pwd'),输入内容：*z$913129
+2024-05-02 10:56:17,974 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'pwd')
+2024-05-02 10:56:18,054 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 10:56:18,054 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 10:56:20,112 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 10:56:20,112 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 10:56:24,057 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 10:56:24,057 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 10:56:24,071 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[@title='课程']")
+2024-05-02 10:56:24,071 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@title='课程']")
+2024-05-02 10:56:25,198 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 10:56:25,198 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 10:56:26,857 INFO [base.py (base_click:23)] - 正在点击元素：('css selector', '.zj')
+2024-05-02 10:56:26,857 INFO [base.py (base_find:18)] - 正在查找元素：('css selector', '.zj')
+2024-05-02 10:56:32,353 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('id', 'iframe')
+2024-05-02 10:56:32,353 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'iframe')
+2024-05-02 10:56:33,488 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('class name', 'ans-attach-online')
+2024-05-02 10:56:33,488 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'ans-attach-online')
+2024-05-02 10:56:33,520 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 10:56:33,521 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 10:56:34,697 INFO [base.py (base_click:23)] - 正在点击元素：('class name', 'writeNote_vid_blue')
+2024-05-02 10:56:34,698 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'writeNote_vid_blue')
+2024-05-02 10:56:34,962 INFO [base.py (base_click:23)] - 正在点击元素：('class name', 'vjs-playback-rate-value')
+2024-05-02 10:56:34,962 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'vjs-playback-rate-value')
+2024-05-02 10:56:36,121 ERROR [test_01_login.py (test01_login:60)] - Message: element click intercepted: Element <div class="vjs-playback-rate-value">...</div> is not clickable at point (751, 488). Other element would receive the click: <span aria-hidden="true" class="vjs-icon-placeholder"></span>
+  (Session info: chrome=123.0.6312.122)
+Stacktrace:
+	GetHandleVerifier [0x00007FF70E807032+63090]
+	(No symbol) [0x00007FF70E772C82]
+	(No symbol) [0x00007FF70E60EC65]
+	(No symbol) [0x00007FF70E65BB34]
+	(No symbol) [0x00007FF70E659954]
+	(No symbol) [0x00007FF70E657164]
+	(No symbol) [0x00007FF70E655EF9]
+	(No symbol) [0x00007FF70E64A708]
+	(No symbol) [0x00007FF70E676FDA]
+	(No symbol) [0x00007FF70E64A00A]
+	(No symbol) [0x00007FF70E6771F0]
+	(No symbol) [0x00007FF70E693412]
+	(No symbol) [0x00007FF70E676D83]
+	(No symbol) [0x00007FF70E6483A8]
+	(No symbol) [0x00007FF70E649441]
+	GetHandleVerifier [0x00007FF70EC025AD+4238317]
+	GetHandleVerifier [0x00007FF70EC3F70D+4488525]
+	GetHandleVerifier [0x00007FF70EC379EF+4456495]
+	GetHandleVerifier [0x00007FF70E8E0576+953270]
+	(No symbol) [0x00007FF70E77E54F]
+	(No symbol) [0x00007FF70E779224]
+	(No symbol) [0x00007FF70E77935B]
+	(No symbol) [0x00007FF70E769B94]
+	BaseThreadInitThunk [0x00007FFE63BB7614+20]
+	RtlUserThreadStart [0x00007FFE651626B1+33]
+
+2024-05-02 10:56:36,122 INFO [base.py (base_get_img:40)] - 正在调用截图方法
+2024-05-02 10:59:42,300 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="2593a089eb70c710d12083343b9cc7d6")>
+2024-05-02 10:59:42,301 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="2593a089eb70c710d12083343b9cc7d6")>
+2024-05-02 10:59:42,301 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="2593a089eb70c710d12083343b9cc7d6")>
+2024-05-02 10:59:42,301 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="2593a089eb70c710d12083343b9cc7d6")>
+2024-05-02 10:59:42,301 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="2593a089eb70c710d12083343b9cc7d6")>
+2024-05-02 10:59:42,301 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'phone'),输入内容：17713483937
+2024-05-02 10:59:42,301 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'phone')
+2024-05-02 10:59:42,497 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'pwd'),输入内容：*z$913129
+2024-05-02 10:59:42,498 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'pwd')
+2024-05-02 10:59:42,573 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 10:59:42,573 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 10:59:44,615 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 10:59:44,615 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 10:59:48,579 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 10:59:48,580 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 10:59:48,594 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[@title='课程']")
+2024-05-02 10:59:48,594 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@title='课程']")
+2024-05-02 10:59:49,721 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 10:59:49,721 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 10:59:51,375 INFO [base.py (base_click:23)] - 正在点击元素：('css selector', '.zj')
+2024-05-02 10:59:51,376 INFO [base.py (base_find:18)] - 正在查找元素：('css selector', '.zj')
+2024-05-02 10:59:56,654 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('id', 'iframe')
+2024-05-02 10:59:56,654 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'iframe')
+2024-05-02 10:59:57,732 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('class name', 'ans-attach-online')
+2024-05-02 10:59:57,732 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'ans-attach-online')
+2024-05-02 10:59:57,766 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 10:59:57,766 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 10:59:58,893 INFO [base.py (base_click:23)] - 正在点击元素：('class name', 'writeNote_vid_blue')
+2024-05-02 10:59:58,893 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'writeNote_vid_blue')
+2024-05-02 11:00:02,124 INFO [base.py (base_click:23)] - 正在点击元素：('class name', 'vjs-playback-rate-value')
+2024-05-02 11:00:02,124 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'vjs-playback-rate-value')
+2024-05-02 11:00:03,207 ERROR [test_01_login.py (test01_login:60)] - Message: element click intercepted: Element <div class="vjs-playback-rate-value">...</div> is not clickable at point (751, 488). Other element would receive the click: <span aria-hidden="true" class="vjs-icon-placeholder"></span>
+  (Session info: chrome=123.0.6312.122)
+Stacktrace:
+	GetHandleVerifier [0x00007FF70E807032+63090]
+	(No symbol) [0x00007FF70E772C82]
+	(No symbol) [0x00007FF70E60EC65]
+	(No symbol) [0x00007FF70E65BB34]
+	(No symbol) [0x00007FF70E659954]
+	(No symbol) [0x00007FF70E657164]
+	(No symbol) [0x00007FF70E655EF9]
+	(No symbol) [0x00007FF70E64A708]
+	(No symbol) [0x00007FF70E676FDA]
+	(No symbol) [0x00007FF70E64A00A]
+	(No symbol) [0x00007FF70E6771F0]
+	(No symbol) [0x00007FF70E693412]
+	(No symbol) [0x00007FF70E676D83]
+	(No symbol) [0x00007FF70E6483A8]
+	(No symbol) [0x00007FF70E649441]
+	GetHandleVerifier [0x00007FF70EC025AD+4238317]
+	GetHandleVerifier [0x00007FF70EC3F70D+4488525]
+	GetHandleVerifier [0x00007FF70EC379EF+4456495]
+	GetHandleVerifier [0x00007FF70E8E0576+953270]
+	(No symbol) [0x00007FF70E77E54F]
+	(No symbol) [0x00007FF70E779224]
+	(No symbol) [0x00007FF70E77935B]
+	(No symbol) [0x00007FF70E769B94]
+	BaseThreadInitThunk [0x00007FFE63BB7614+20]
+	RtlUserThreadStart [0x00007FFE651626B1+33]
+
+2024-05-02 11:00:03,208 INFO [base.py (base_get_img:40)] - 正在调用截图方法
+2024-05-02 11:05:30,839 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="5f14b38a1a2924ec10fb1197b439e561")>
+2024-05-02 11:05:30,839 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="5f14b38a1a2924ec10fb1197b439e561")>
+2024-05-02 11:05:30,840 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="5f14b38a1a2924ec10fb1197b439e561")>
+2024-05-02 11:05:30,840 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="5f14b38a1a2924ec10fb1197b439e561")>
+2024-05-02 11:05:30,840 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="5f14b38a1a2924ec10fb1197b439e561")>
+2024-05-02 11:05:30,840 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'phone'),输入内容：17713483937
+2024-05-02 11:05:30,840 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'phone')
+2024-05-02 11:05:31,008 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'pwd'),输入内容：*z$913129
+2024-05-02 11:05:31,009 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'pwd')
+2024-05-02 11:05:31,081 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 11:05:31,081 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 11:05:33,127 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 11:05:33,127 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 11:05:37,286 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 11:05:37,286 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 11:05:37,297 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[@title='课程']")
+2024-05-02 11:05:37,298 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@title='课程']")
+2024-05-02 11:05:38,387 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 11:05:38,387 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 11:05:40,063 INFO [base.py (base_click:23)] - 正在点击元素：('css selector', '.zj')
+2024-05-02 11:05:40,063 INFO [base.py (base_find:18)] - 正在查找元素：('css selector', '.zj')
+2024-05-02 11:05:45,358 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('id', 'iframe')
+2024-05-02 11:05:45,358 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'iframe')
+2024-05-02 11:05:46,463 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('class name', 'ans-attach-online')
+2024-05-02 11:05:46,464 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'ans-attach-online')
+2024-05-02 11:05:46,495 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 11:05:46,495 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 11:05:47,672 INFO [base.py (base_click:23)] - 正在点击元素：('class name', 'writeNote_vid_blue')
+2024-05-02 11:05:47,673 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'writeNote_vid_blue')
+2024-05-02 11:05:50,924 ERROR [test_01_login.py (test01_login:60)] - Message: javascript error: arguments[0].click is not a function
+  (Session info: chrome=123.0.6312.122)
+Stacktrace:
+	GetHandleVerifier [0x00007FF70E807032+63090]
+	(No symbol) [0x00007FF70E772C82]
+	(No symbol) [0x00007FF70E60EC65]
+	(No symbol) [0x00007FF70E613D21]
+	(No symbol) [0x00007FF70E616462]
+	(No symbol) [0x00007FF70E694062]
+	(No symbol) [0x00007FF70E676FDA]
+	(No symbol) [0x00007FF70E693412]
+	(No symbol) [0x00007FF70E676D83]
+	(No symbol) [0x00007FF70E6483A8]
+	(No symbol) [0x00007FF70E649441]
+	GetHandleVerifier [0x00007FF70EC025AD+4238317]
+	GetHandleVerifier [0x00007FF70EC3F70D+4488525]
+	GetHandleVerifier [0x00007FF70EC379EF+4456495]
+	GetHandleVerifier [0x00007FF70E8E0576+953270]
+	(No symbol) [0x00007FF70E77E54F]
+	(No symbol) [0x00007FF70E779224]
+	(No symbol) [0x00007FF70E77935B]
+	(No symbol) [0x00007FF70E769B94]
+	BaseThreadInitThunk [0x00007FFE63BB7614+20]
+	RtlUserThreadStart [0x00007FFE651626B1+33]
+
+2024-05-02 11:05:50,924 INFO [base.py (base_get_img:40)] - 正在调用截图方法
+2024-05-02 11:10:34,908 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="0c91f0a73cccec52d6ec46bd2fa73580")>
+2024-05-02 11:10:34,909 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="0c91f0a73cccec52d6ec46bd2fa73580")>
+2024-05-02 11:10:34,909 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="0c91f0a73cccec52d6ec46bd2fa73580")>
+2024-05-02 11:10:34,909 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="0c91f0a73cccec52d6ec46bd2fa73580")>
+2024-05-02 11:10:34,909 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="0c91f0a73cccec52d6ec46bd2fa73580")>
+2024-05-02 11:10:34,909 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'phone'),输入内容：17713483937
+2024-05-02 11:10:34,909 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'phone')
+2024-05-02 11:10:35,067 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'pwd'),输入内容：*z$913129
+2024-05-02 11:10:35,068 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'pwd')
+2024-05-02 11:10:35,147 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 11:10:35,147 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 11:10:37,195 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 11:10:37,195 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 11:10:41,074 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 11:10:41,074 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 11:10:41,085 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[@title='课程']")
+2024-05-02 11:10:41,086 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@title='课程']")
+2024-05-02 11:10:42,202 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 11:10:42,202 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 11:10:43,848 INFO [base.py (base_click:23)] - 正在点击元素：('css selector', '.zj')
+2024-05-02 11:10:43,848 INFO [base.py (base_find:18)] - 正在查找元素：('css selector', '.zj')
+2024-05-02 11:10:48,968 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('id', 'iframe')
+2024-05-02 11:10:48,969 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'iframe')
+2024-05-02 11:10:50,112 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('class name', 'ans-attach-online')
+2024-05-02 11:10:50,112 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'ans-attach-online')
+2024-05-02 11:10:50,137 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 11:10:50,137 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 11:10:51,271 INFO [base.py (base_click:23)] - 正在点击元素：('class name', 'writeNote_vid_blue')
+2024-05-02 11:10:51,271 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'writeNote_vid_blue')
+2024-05-02 11:10:54,494 ERROR [test_01_login.py (test01_login:60)] - move_to requires a WebElement
+2024-05-02 11:10:54,494 INFO [base.py (base_get_img:40)] - 正在调用截图方法
+2024-05-02 11:16:20,487 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="025b2e43dd411878bb26f5de1b81bcb8")>
+2024-05-02 11:16:20,488 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="025b2e43dd411878bb26f5de1b81bcb8")>
+2024-05-02 11:16:20,488 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="025b2e43dd411878bb26f5de1b81bcb8")>
+2024-05-02 11:16:20,488 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="025b2e43dd411878bb26f5de1b81bcb8")>
+2024-05-02 11:16:20,488 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="025b2e43dd411878bb26f5de1b81bcb8")>
+2024-05-02 11:16:20,488 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'phone'),输入内容：17713483937
+2024-05-02 11:16:20,488 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'phone')
+2024-05-02 11:16:20,669 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'pwd'),输入内容：*z$913129
+2024-05-02 11:16:20,670 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'pwd')
+2024-05-02 11:16:20,751 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 11:16:20,751 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 11:16:22,804 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 11:16:22,804 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 11:16:26,913 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 11:16:26,913 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 11:16:26,924 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[@title='课程']")
+2024-05-02 11:16:26,924 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@title='课程']")
+2024-05-02 11:16:28,008 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 11:16:28,008 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 11:16:29,663 INFO [base.py (base_click:23)] - 正在点击元素：('css selector', '.zj')
+2024-05-02 11:16:29,663 INFO [base.py (base_find:18)] - 正在查找元素：('css selector', '.zj')
+2024-05-02 11:16:34,729 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('id', 'iframe')
+2024-05-02 11:16:34,729 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'iframe')
+2024-05-02 11:16:35,891 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('class name', 'ans-attach-online')
+2024-05-02 11:16:35,891 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'ans-attach-online')
+2024-05-02 11:16:35,916 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 11:16:35,916 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 11:16:37,051 INFO [base.py (base_click:23)] - 正在点击元素：('class name', 'writeNote_vid_blue')
+2024-05-02 11:16:37,052 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'writeNote_vid_blue')
+2024-05-02 11:16:50,611 ERROR [test_01_login.py (test01_login:60)] - Message: 
+
+2024-05-02 11:16:50,611 INFO [base.py (base_get_img:40)] - 正在调用截图方法
+2024-05-02 11:19:19,374 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="346c5ee91fa8c272274370ca78923421")>
+2024-05-02 11:19:19,375 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="346c5ee91fa8c272274370ca78923421")>
+2024-05-02 11:19:19,375 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="346c5ee91fa8c272274370ca78923421")>
+2024-05-02 11:19:19,375 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="346c5ee91fa8c272274370ca78923421")>
+2024-05-02 11:19:19,375 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="346c5ee91fa8c272274370ca78923421")>
+2024-05-02 11:19:19,375 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'phone'),输入内容：17713483937
+2024-05-02 11:19:19,376 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'phone')
+2024-05-02 11:19:19,544 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'pwd'),输入内容：*z$913129
+2024-05-02 11:19:19,545 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'pwd')
+2024-05-02 11:19:19,621 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 11:19:19,622 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 11:19:21,670 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 11:19:21,670 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 11:19:25,751 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 11:19:25,751 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 11:19:25,762 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[@title='课程']")
+2024-05-02 11:19:25,762 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@title='课程']")
+2024-05-02 11:19:26,857 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 11:19:26,858 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 11:19:28,516 INFO [base.py (base_click:23)] - 正在点击元素：('css selector', '.zj')
+2024-05-02 11:19:28,516 INFO [base.py (base_find:18)] - 正在查找元素：('css selector', '.zj')
+2024-05-02 11:19:33,668 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('id', 'iframe')
+2024-05-02 11:19:33,669 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'iframe')
+2024-05-02 11:19:34,889 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('class name', 'ans-attach-online')
+2024-05-02 11:19:34,889 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'ans-attach-online')
+2024-05-02 11:19:34,915 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 11:19:34,915 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 11:19:36,041 INFO [base.py (base_click:23)] - 正在点击元素：('class name', 'writeNote_vid_blue')
+2024-05-02 11:19:36,041 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'writeNote_vid_blue')
+2024-05-02 11:19:39,259 ERROR [test_01_login.py (test01_login:60)] - Message: javascript error: arguments[0].scrollIntoView is not a function
+  (Session info: chrome=123.0.6312.122)
+Stacktrace:
+	GetHandleVerifier [0x00007FF70E807032+63090]
+	(No symbol) [0x00007FF70E772C82]
+	(No symbol) [0x00007FF70E60EC65]
+	(No symbol) [0x00007FF70E613D21]
+	(No symbol) [0x00007FF70E616462]
+	(No symbol) [0x00007FF70E694062]
+	(No symbol) [0x00007FF70E676FDA]
+	(No symbol) [0x00007FF70E693412]
+	(No symbol) [0x00007FF70E676D83]
+	(No symbol) [0x00007FF70E6483A8]
+	(No symbol) [0x00007FF70E649441]
+	GetHandleVerifier [0x00007FF70EC025AD+4238317]
+	GetHandleVerifier [0x00007FF70EC3F70D+4488525]
+	GetHandleVerifier [0x00007FF70EC379EF+4456495]
+	GetHandleVerifier [0x00007FF70E8E0576+953270]
+	(No symbol) [0x00007FF70E77E54F]
+	(No symbol) [0x00007FF70E779224]
+	(No symbol) [0x00007FF70E77935B]
+	(No symbol) [0x00007FF70E769B94]
+	BaseThreadInitThunk [0x00007FFE63BB7614+20]
+	RtlUserThreadStart [0x00007FFE651626B1+33]
+
+2024-05-02 11:19:39,259 INFO [base.py (base_get_img:40)] - 正在调用截图方法
+2024-05-02 11:21:04,294 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="b7b7d3b3dd933ae8119d45c7d6506fc8")>
+2024-05-02 11:21:04,295 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="b7b7d3b3dd933ae8119d45c7d6506fc8")>
+2024-05-02 11:21:04,296 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="b7b7d3b3dd933ae8119d45c7d6506fc8")>
+2024-05-02 11:21:04,296 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="b7b7d3b3dd933ae8119d45c7d6506fc8")>
+2024-05-02 11:21:04,296 INFO [base.py (__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="b7b7d3b3dd933ae8119d45c7d6506fc8")>
+2024-05-02 11:21:04,296 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'phone'),输入内容：17713483937
+2024-05-02 11:21:04,296 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'phone')
+2024-05-02 11:21:04,482 INFO [base.py (base_input:27)] - 正在调用输入元素方法：('id', 'pwd'),输入内容：*z$913129
+2024-05-02 11:21:04,484 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'pwd')
+2024-05-02 11:21:04,572 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 11:21:04,572 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@type,'button')]")
+2024-05-02 11:21:06,625 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 11:21:06,625 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 11:21:10,680 INFO [base.py (base_get_text:36)] - 正在调用获取元素信息方法：('xpath', "//*[@class='user-name']")
+2024-05-02 11:21:10,680 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@class='user-name']")
+2024-05-02 11:21:10,691 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[@title='课程']")
+2024-05-02 11:21:10,691 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[@title='课程']")
+2024-05-02 11:21:11,780 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 11:21:11,780 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//*[contains(@title,'电子学基础')]")
+2024-05-02 11:21:13,427 INFO [base.py (base_click:23)] - 正在点击元素：('css selector', '.zj')
+2024-05-02 11:21:13,427 INFO [base.py (base_find:18)] - 正在查找元素：('css selector', '.zj')
+2024-05-02 11:21:18,470 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('id', 'iframe')
+2024-05-02 11:21:18,470 INFO [base.py (base_find:18)] - 正在查找元素：('id', 'iframe')
+2024-05-02 11:21:19,577 INFO [base.py (base_switch_frame:47)] - 正在调用切换iframe方法，切换对象：('class name', 'ans-attach-online')
+2024-05-02 11:21:19,577 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'ans-attach-online')
+2024-05-02 11:21:19,603 INFO [base.py (base_click:23)] - 正在点击元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 11:21:19,603 INFO [base.py (base_find:18)] - 正在查找元素：('xpath', "//button[@class='vjs-big-play-button']")
+2024-05-02 11:21:20,743 INFO [base.py (base_click:23)] - 正在点击元素：('class name', 'writeNote_vid_blue')
+2024-05-02 11:21:20,743 INFO [base.py (base_find:18)] - 正在查找元素：('class name', 'writeNote_vid_blue')
+2024-05-02 11:21:23,971 ERROR [test_01_login.py (test01_login:60)] - Message: javascript error: view_space_button is not defined
+  (Session info: chrome=123.0.6312.122)
+Stacktrace:
+	GetHandleVerifier [0x00007FF70E807032+63090]
+	(No symbol) [0x00007FF70E772C82]
+	(No symbol) [0x00007FF70E60EC65]
+	(No symbol) [0x00007FF70E613D21]
+	(No symbol) [0x00007FF70E616462]
+	(No symbol) [0x00007FF70E694062]
+	(No symbol) [0x00007FF70E676FDA]
+	(No symbol) [0x00007FF70E693412]
+	(No symbol) [0x00007FF70E676D83]
+	(No symbol) [0x00007FF70E6483A8]
+	(No symbol) [0x00007FF70E649441]
+	GetHandleVerifier [0x00007FF70EC025AD+4238317]
+	GetHandleVerifier [0x00007FF70EC3F70D+4488525]
+	GetHandleVerifier [0x00007FF70EC379EF+4456495]
+	GetHandleVerifier [0x00007FF70E8E0576+953270]
+	(No symbol) [0x00007FF70E77E54F]
+	(No symbol) [0x00007FF70E779224]
+	(No symbol) [0x00007FF70E77935B]
+	(No symbol) [0x00007FF70E769B94]
+	BaseThreadInitThunk [0x00007FFE63BB7614+20]
+	RtlUserThreadStart [0x00007FFE651626B1+33]
+
+2024-05-02 11:21:23,971 INFO [base.py (base_get_img:40)] - 正在调用截图方法
