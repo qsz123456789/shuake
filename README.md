@@ -1,3 +1,5 @@
+此为学习通刷课脚本
+
 1.所需环境：pycharm
          selenium
          chrone
